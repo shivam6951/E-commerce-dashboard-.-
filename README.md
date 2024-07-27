@@ -17,7 +17,7 @@ Data Cleaning: Handling missing data, correcting data types.
 
 Pivot Tables: For aggregating and summarizing data.
 
-Charts and Visualizations: Bar charts, pie charts, maps, scatter plots.
+Charts and Visualizations: Bar charts, pie charts, maps.
 
 Statistical Analysis: Correlation analysis, trend analysis.
 
